@@ -1,6 +1,4 @@
-import 'dart:io';
-
-import 'package:animal_crossing_clock/ClockScreen/clockScreen_model.dart';
+import 'package:the_town_clock/ClockScreen/clockScreen_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_exit_app/flutter_exit_app.dart';

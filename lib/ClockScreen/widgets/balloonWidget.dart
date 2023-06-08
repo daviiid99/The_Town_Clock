@@ -1,4 +1,4 @@
-import 'package:animal_crossing_clock/ClockScreen/clockScreen_model.dart';
+import 'package:the_town_clock/ClockScreen/clockScreen_model.dart';
 import 'package:flutter/material.dart';
 
 class BalloonWidget extends StatelessWidget{

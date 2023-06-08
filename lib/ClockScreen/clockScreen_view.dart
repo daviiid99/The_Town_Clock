@@ -1,5 +1,5 @@
-import 'package:animal_crossing_clock/ClockScreen/widgets/backgroundTheme.dart';
-import 'package:animal_crossing_clock/ClockScreen/widgets/deviceWarning.dart';
+import 'package:the_town_clock/ClockScreen/widgets/backgroundTheme.dart';
+import 'package:the_town_clock/ClockScreen/widgets/deviceWarning.dart';
 import 'package:flutter/foundation.dart';
 import 'package:stacked/stacked.dart';
 import 'package:flutter/material.dart';

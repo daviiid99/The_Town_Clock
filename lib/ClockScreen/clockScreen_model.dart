@@ -1,5 +1,5 @@
 import 'dart:math';
-import 'package:animal_crossing_clock/Data/npcsData.dart';
+import 'package:the_town_clock/Data/npcsData.dart';
 import 'package:flutter/foundation.dart';
 import 'package:quiver/async.dart';
 import 'package:stacked/stacked.dart';

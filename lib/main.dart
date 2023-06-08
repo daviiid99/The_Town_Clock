@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:animal_crossing_clock/exports.dart';
+import 'package:the_town_clock/exports.dart';
 import 'package:flutter/services.dart';
 
 void main(){

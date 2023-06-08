@@ -1,5 +1,4 @@
-
-import 'package:animal_crossing_clock/Databases/times.dart';
+import 'package:the_town_clock/Databases/times.dart';
 
 class TimesData{
 
